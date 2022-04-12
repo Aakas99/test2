@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentDetails>
+  <Student id = "1">
+    <Name>John</Name>
+    <Email>john123@mail.com</Email>
+    <Age>26</Age>
+    <Gender>male</Gender>
+    <Mobile>2345123123</Mobile>
+    <About>Im from New york</About>
+    <School>Wetherby Pembridge</School>   
+  </Student>
+</StudentDetails>
